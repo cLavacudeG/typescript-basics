@@ -1,0 +1,3 @@
+class Contact {
+  id: number;
+}
